@@ -2,8 +2,6 @@ using System.Collections;
 
 namespace WordGameCore;
 
-public interface ILetterSet: IReadOnlySet<Letter>;
-
 public readonly struct LetterSet(int letterSetFlag): ILetterSet
 {
     private int AsInt() => letterSetFlag;
