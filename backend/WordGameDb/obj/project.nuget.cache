@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SVWD8WYNs0p150n3okJvi/WibY47l2xbr2dNEBs+Kf/RIvg8fRxyyNQZfJdgEPPLuoPjcP8xXVjfIjOM7HWKkg==",
+  "dgSpecHash": "HKQAkJcoqxZSk8nuYtYRbJ5BSuqLMHVtnwNHRG87Zx5Av8/YXFmubbtSM8CM3VVLEdeQMDm5cUFWWS6TFTQqAw==",
   "success": true,
   "projectFilePath": "/Users/trey/Projects/word-game/backend/WordGameDb/WordGameDb.csproj",
   "expectedPackageFiles": [],

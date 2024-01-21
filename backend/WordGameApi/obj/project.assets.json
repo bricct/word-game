@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/trey/Projects/word-game/backend/WordGameApi/WordGameApi.csproj",
+      "projectUniqueName": "/Users/trey/Projects/word-game/backend/WordGameAPi/WordGameApi.csproj",
       "projectName": "WordGameApi",
-      "projectPath": "/Users/trey/Projects/word-game/backend/WordGameApi/WordGameApi.csproj",
+      "projectPath": "/Users/trey/Projects/word-game/backend/WordGameAPi/WordGameApi.csproj",
       "packagesPath": "/Users/trey/.nuget/packages/",
-      "outputPath": "/Users/trey/Projects/word-game/backend/WordGameApi/obj/",
+      "outputPath": "/Users/trey/Projects/word-game/backend/WordGameAPi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/trey/.nuget/NuGet/NuGet.Config"
@@ -524,7 +524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

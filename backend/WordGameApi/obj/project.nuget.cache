@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XVxHEDudmNHBlsxe66b/W7a8ADaXakx6dmagW7uMp4Qhfohk7YRqlbj7EEppys6Czk4XBBIEQGhWV/D35Jy7Tw==",
+  "dgSpecHash": "5RwYQIXEn6iRUSHlGbzYG6XsuFl3a2GLQDCvwF+2eG+C9xnE0n+7fVX5zCqPu55dGMfjhfQrB6FUrmamPOB7Fw==",
   "success": true,
-  "projectFilePath": "/Users/trey/Projects/word-game/backend/WordGameApi/WordGameApi.csproj",
+  "projectFilePath": "/Users/trey/Projects/word-game/backend/WordGameAPi/WordGameApi.csproj",
   "expectedPackageFiles": [
     "/Users/trey/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/Users/trey/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
